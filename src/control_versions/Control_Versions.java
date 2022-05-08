@@ -6,6 +6,8 @@ public class Control_Versions {
         
         int num=0;
         int num2=2;
+        
+        int España = 10;
 
     }
 
